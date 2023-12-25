@@ -1,4 +1,4 @@
-//Doshi Naman
+//Sushant Dubey
 (function ($) {
   "use strict";
 
